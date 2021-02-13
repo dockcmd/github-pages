@@ -14,5 +14,5 @@ docker run --rm \
   -p "4000:4000" \
   dcmd/github-pages:v0.0.1 serve \
   --watch --force_polling --verbose \
-  --host 0.0.0.0 --port 4000
+  --host 0.0.0.0 --port 4000 --config /root/github.yaml,/wd/_config.yml
 ```

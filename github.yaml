@@ -1,0 +1,14 @@
+# github plugins enabled by default
+# https://docs.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll#plugins
+plugins:
+- jekyll-coffeescript
+- jekyll-default-layout
+- jekyll-gist
+- jekyll-github-metadata
+- jekyll-optional-front-matter
+- jekyll-paginate
+- jekyll-readme-index
+- jekyll-relative-links
+- jekyll-remote-theme
+- jekyll-seo-tag
+- jekyll-titles-from-headings
